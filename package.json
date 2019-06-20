@@ -1,0 +1,11 @@
+{
+  "name": "RaceManager",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": true
+  },
+  "dependencies": {
+    "node-osc": "^4.1.0"
+  }
+}
